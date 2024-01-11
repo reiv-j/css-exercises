@@ -36,7 +36,7 @@ img {
 
 .item {
   text-align: center;
-  width: 200px;
+  width: 300px;
   padding: 30px;
   display: flex;
   flex-direction: column;
